@@ -1,0 +1,8 @@
+mode,vpa_start,cnt
+seq_w,0,10
+seq_w,10,2
+up_w,0,2
+seq_w,12,3
+up_w,7,3
+seq_w,15,5
+up_w,12,2
